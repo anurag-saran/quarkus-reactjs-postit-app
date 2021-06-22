@@ -16,7 +16,7 @@ https://codeready-labs-infra.apps.cluster-xpxnp.xpxnp.sandbox80.opentlc.com/fact
 ```
 
 Alternatively,
-1. Add your prefered Che or CodeReady Workspaces instance: https://blog.sunix.org/factory (that would just do the right redirection to the right server based on your preferences)
+1. Add your prefered Che or CodeReady Workspaces instance: https://codeready-labs-infra.apps.cluster-xpxnp.xpxnp.sandbox80.opentlc.com/factory (that would just do the right redirection to the right server based on your preferences)
 2. Start the workspace: [![Contribute](factory-contribute.svg)](https://codeready-labs-infra.apps.cluster-xpxnp.xpxnp.sandbox80.opentlc.com/factory?url=https://github.com/redhat-developer-demos/quarkus-reactjs-postit-app)
 
 ![Application topology](topology.png "Application Topology")
